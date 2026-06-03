@@ -82,7 +82,7 @@ export default function Home() {
             </h2>
             <div className="w-24 h-1 mx-auto bg-gradient-to-r from-transparent via-purple-500 to-transparent"></div>
             <p className="text-gray-400 font-lora max-w-2xl mx-auto">
-              Aqui guardo as fotos do meeu bem mais precioso.
+              Aqui guardo as fotos do meu bem mais precioso.
             </p>
           </div>
 
